@@ -11,7 +11,7 @@
 
   Download and install from    https://www.google.com/chrome/
 * Chrome Driver
-  Download and copy the chromedriver.exe file to "C:\bin" [Create folder if not already present] 
+  Download and copy the chromedriver.exe file to "C:\bin" (Create folder if not already present)
   
   https://chromedriver.chromium.org/
   
@@ -30,6 +30,11 @@
    "pip install selenium"
    
     
+    Don't Forget to Fork the repository
     
+    Connect with me @ [LINKEDIN](https://www.linkedin.com/in/aryan-mehrotra-9a71b873/)
+    
+    [LICENSE](https://github.com/mehrotra234/Automated_Whatsapp/blob/master/LICENSE)
     # Enjoy
+    
  
