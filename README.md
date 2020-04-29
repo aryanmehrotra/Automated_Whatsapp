@@ -16,9 +16,13 @@
   https://chromedriver.chromium.org/
   
   Set environment variable by
+  
   1 Open Run by pressing (Win + R)
+  
      Paste the following without quotes "rundll32 sysdm.cpl,EditEnvironmentVariables"
+     
   2. Click On Path -> Edit
+  
   3. Click New -> Paste without quotes "C:\bin" -> Ok -> Ok
  
 * Python 3.6
