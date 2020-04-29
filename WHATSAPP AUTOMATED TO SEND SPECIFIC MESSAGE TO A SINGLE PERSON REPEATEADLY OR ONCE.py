@@ -7,11 +7,11 @@ from selenium.webdriver.support import expected_conditions as EC
 driver = webdriver.Chrome()  # Optional argument, if not specified will search path.
 mobile_number = input("Enter a Number with country code prefix (India : 911234567890): ")
 text = str(input("Enter the message (Don't Leave extra space): "))
-text = text.replace(" ","%20")
+text_encoded = text.replace(" ","%20")
 count = int(input("Enter the number of times you want to send the message : " ))
 if(count == 0):
     print("By default it send the message once")
-driver.get("https://web.whatsapp.com/send?phone="+mobile_number+"&text="+text+"&source=&data=&app_absent=")
+driver.get("https://web.whatsapp.com/send?phone="+mobile_number+"&text="+text_encoded+"&source=&data=&app_absent=")
 input("Press ENTER key after scanning the code : ")
 print("Go back to the browser and leave it open")
 try:
