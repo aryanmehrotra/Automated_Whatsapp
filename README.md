@@ -3,7 +3,7 @@
 
 # Getting Started
 
-## Requirements and Instructions
+## Requirement and Instructions
 
 ### If you have Anaconda you can directly use the the notebook file and partially skip the last step to download python 3.6
 
