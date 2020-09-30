@@ -1,6 +1,5 @@
 # Automated_Whatsapp
 
-
 # Getting Started
 
 ## Requirements and Instructions
@@ -8,8 +7,7 @@
 ### If you have Anaconda you can directly use the the notebook file and partially skip the last step to download python 3.6
 
 * Google Chrome
-
-  Download and install from    https://www.google.com/chrome/
+     Download and install from    https://www.google.com/chrome/
 * Chrome Driver
   Download and copy the chromedriver.exe file to "C:\bin" (Create folder if not already present)
   
@@ -34,7 +32,7 @@
    "pip install selenium"
    
     
-    Don't Forget to Fork the repository
+    Don't Forget to Fork the repository and suggest changes.
     
     Connect with me @ [LINKEDIN](https://www.linkedin.com/in/aryan-mehrotra-9a71b873/)
     
