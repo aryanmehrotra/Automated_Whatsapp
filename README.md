@@ -30,7 +30,6 @@
     
    To install library open CMD and run
    "pip install selenium"
-   
     
     Don't Forget to Fork the repository and suggest changes
     
