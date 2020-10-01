@@ -30,9 +30,9 @@
     
    To install library open CMD and run
    "pip install selenium"
-   
     
-    Don't Forget to Fork the repository and suggest changes.
+    
+    Don't Forget to Fork the repository and suggest changes
     
     Connect with me @ [LINKEDIN](https://www.linkedin.com/in/aryan-mehrotra-9a71b873/)
     
