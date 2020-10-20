@@ -28,7 +28,7 @@
   * Extra Python Libraries Required
     * Selenium
     
-   To install library open CMD and run
+   To install library open CMD and run.
    "pip install selenium"
     
     
@@ -40,5 +40,5 @@
     # Enjoy
     
     #Hope you find this helpful.
-    Happy learning, and feel free to ask your doubts
+    Happy learning, and feel free to ask your doubts.
  
