@@ -38,7 +38,6 @@
     
     [LICENSE](https://github.com/mehrotra234/Automated_Whatsapp/blob/master/LICENSE)
     # Enjoy
-    
     #Hope you find this helpful.
     Happy learning, and feel free to ask your doubts.
  
